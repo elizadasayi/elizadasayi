@@ -10,4 +10,5 @@ v1.0 release oldu 🥳
 - Yürüme bu sprinte yetişmedi
 - Yeni gıdalar eklendi
 - annnn, mamm, dedede, bababa gibi random heceler eklendi
-- bug olmadığı için direkt canlıya çıkıldı çünkü rabbimin yarattığı herşey kusursuz 🤲 ❤️
+- 6 diş eklendi
+- Bug olmadığı için direkt canlıya çıkıldı çünkü rabbimin yarattığı herşey kusursuz 🤲 ❤️
