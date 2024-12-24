@@ -1,7 +1,7 @@
 # Merhaba 👋
 
 - ✨ Ben büyüyorum
-- 👶 2021 ayında dünyaya geldim
+- 👶 2021 yılında dünyaya geldim
 - 😄 Büyüyünce yazılım geliştirici olmak istiyorum
 
 v1.0 release oldu 🥳
